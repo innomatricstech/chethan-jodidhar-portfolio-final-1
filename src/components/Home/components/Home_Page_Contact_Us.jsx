@@ -148,7 +148,6 @@ const Home_Page_Contact_Us = () => {
               className="text-[#800080]"
             
               info@chethancinimas.com
- a877d8b (first commit)
             </a>
           </p>
           <p className="text-lg text-[#363636]">
