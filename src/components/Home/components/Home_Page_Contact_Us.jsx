@@ -140,7 +140,7 @@ const Home_Page_Contact_Us = () => {
             • Email:{" "}
             <a
 
-              href="mailto:filmdirectorchethan@gmail.com"
+              href="mailto:info@chethancinimas.com"
               className="text-[#800080]"
             >
               info@chethancinimas.com
