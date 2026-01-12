@@ -143,10 +143,6 @@ const Home_Page_Contact_Us = () => {
               href="mailto:filmdirectorchethan@gmail.com"
               className="text-[#800080]"
             >
-
-              href="mailto:info@chethancinimas.com"
-              className="text-[#800080]"
-            
               info@chethancinimas.com
             </a>
           </p>
