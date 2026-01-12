@@ -53,9 +53,7 @@ const ContactUsBanner = () => {
           <div className="flex items-center gap-3 text-lg text-gray-700">
             <MdEmail className="text-[#48A77E] text-2xl" />
 
-            <span>filmdirectorchethan@gmail.com</span>
-
- a877d8b (first commit)
+            <span> info@chethancinimas.com</span>
           </div>
 
           <div className="flex items-center gap-3 text-lg text-gray-700">
